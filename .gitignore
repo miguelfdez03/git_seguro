@@ -1,2 +1,4 @@
 *.log 
 .env
+gitleaks-report.json
+hook-run.txt
